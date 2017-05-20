@@ -19,8 +19,8 @@
             <android.support.v7.widget.AppCompatTextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Home"
-                android:textSize="@dimen/heading_text_size"
+                android:text="HOME"
+                android:textSize="@dimen/heading_larger_text_size"
                 android:textColor="@color/white"
                 android:textStyle="bold" />
         </android.support.v7.widget.Toolbar>
@@ -36,7 +36,7 @@
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="0.4">
+            android:layout_weight="0.35">
 
             <rashmi.sampleproject.Utils.ViewFlipperPoints
                 android:id="@+id/viewflipper"
@@ -96,7 +96,7 @@
             android:id="@+id/viewpager"
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="0.5"
+            android:layout_weight="0.55"
             app:layout_behavior="@string/appbar_scrolling_view_behavior" />
 
 
