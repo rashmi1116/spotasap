@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SampleProject</string>
+    <string name="title_text_1">EMPTINESS.FT JUSTIN TIBLEKAR</string>
+    <string name="title_text_2">I\'M FALLING IN LOVE WITH YOU</string>
+    <string name="title_text_3">I\'M FALLING IN LOVE WITH YOU</string>
+    <string name="title_text_4">WHITE HORSE FT. TAYLOR SWIFT</string>
+    <string name="title_text_5">TRUE FT.TASKIN</string>
+
+    <string name="sub_text_1">19 Hours Ago</string>
+    <string name="sub_text_2">20 Hours Ago</string>
+    <string name="sub_text_3">22 Hours Ago</string>
+    <string name="sub_text_4">17 Hours Ago</string>
+    <string name="sub_text_5">16 Hours Ago</string>
+
+    <string name="description_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry</string>
+
+</resources>
